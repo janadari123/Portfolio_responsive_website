@@ -1,0 +1,35 @@
+.reference-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #e5e1e1;
+  }
+  
+  .reference-container h2 {
+    color: #333;
+  }
+  
+  .reference1 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .reference2 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .reference p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }

@@ -1,0 +1,32 @@
+.projects-container {
+    padding: 40px;
+    background-color: #e5e1e1;
+  }
+  
+  .projects-container h2 {
+    text-align: center;
+    color: #555;
+  }
+  
+  .project-item {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+  
+  .project-item h5 {
+    color: #555;
+  }
+
+  .project-item p {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }
+
+  

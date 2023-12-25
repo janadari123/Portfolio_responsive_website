@@ -1,0 +1,49 @@
+.Skill_and_Abilities-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #b6a6a6;
+  }
+  
+  .Skill_and_Abilities-container h2 {
+    color: #333;
+  }
+  
+  .Skill_and_Abilities1 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .Skill_and_Abilities2 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .Skill_and_Abilities3 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .Skill_and_Abilities4 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }

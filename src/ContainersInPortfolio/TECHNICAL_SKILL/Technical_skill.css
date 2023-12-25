@@ -1,0 +1,65 @@
+.technical-skill-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #e5e1e1;
+  }
+  
+  .technical-skill-container h2 {
+    color: #333;
+  }
+  
+  .technical-skill1 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .technical-skill2 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .technical-skill3 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .technical-skill4 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .technical-skill5 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .technical-skill p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }

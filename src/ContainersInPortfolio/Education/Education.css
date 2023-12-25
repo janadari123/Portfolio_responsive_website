@@ -1,0 +1,35 @@
+.education-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #b6a6a6;
+  }
+  
+  .education-container h2 {
+    color: #333;
+  }
+  
+  .education1 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .education2 {
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(252, 251, 249);
+  }
+
+  .education p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }
